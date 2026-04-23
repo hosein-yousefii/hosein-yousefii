@@ -1,75 +1,69 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hossein%20Yousefi&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Solution%20Architect%20%7C%20Platform%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descAlign=50" alt="Header Banner"/>
+</div>
 
-<img src="https://github.com/hosein-yousefii/hosein-yousefii/blob/main/hosein.png" alt="center">
+<div align="center">
 
+> *Passionate about new and impossible ideas.* 🚀
 
+<br>
 
-<p align="center">
-Contact me
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoseinyousefi/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosein-yousefii/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hosseinyousefi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfDS69C37-HdnNfu0yQv8iA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefi.hosein.o@gmail.com)
 
-<p align="center">
-<a href= "https://github.com/hosein-yousefii/"> 
-<img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/> 
-</a>
-  
-<a href= "https://www.linkedin.com/in/hoseinyousefi/">
-<img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png" />
-</a>
-  
-<a href="https://www.youtube.com/channel/UCfDS69C37-HdnNfu0yQv8iA">
-<img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/>
-</a>
+</div>
 
-<a href="http://www.slashgeek.ir">
-<img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-</a>
+<br>
 
-<a href="mailto:yousefi.hosein.o@gmail.com">
-<img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
-</a>
+### 👨‍💻 About Me
+I am currently developing **NopsAI** — a professional AI-native automation tool — while continuously exploring new concepts and pushing technical boundaries. My expertise lies in architecting scalable infrastructure, managing cloud environments, and building robust platform engineering solutions.
 
-<a href="https://medium.com/@hosein.yousefi">
-<img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
-</a>
-  
-</p>
+<br>
 
----
-  
-<h3 align="center"><a href="https://www.youtube.com/channel/UCfDS69C37-HdnNfu0yQv8iA"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/channel/UCfDS69C37-HdnNfu0yQv8iA"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
+### 🛠️ Core Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,linux,docker,bash,python,golang&perline=8" alt="Tech Stack Icons" />
+</div>
 
-<!-- YOUTUBE:START -->
-- [Dynamic gauge max value in Grafana](https://youtu.be/YwVAzA4ZgHU)
-- [Fail2ban](https://youtu.be/JqlQzKa-fR8)
-- [How to set ACLs in linux](https://youtu.be/VpuDHWYbcYc)
-- [keep linux up to date](https://youtu.be/zJ2hv47zQWw)
-- [implement aide and configuration](https://youtu.be/jyeIJqmqUuw)
-<!-- YOUTUBE:END -->
+<br>
 
 ---
 
-<h3 align="center"><a href="https://medium.com/@hosein.yousefi"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@hosein.yousefi"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
+### 📚 Latest Content
 
+<table width="100%" align="center" border="0" style="border:none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">✍️ Technical Writing</h4>
+      <ul>
+        <li><a href="https://itnext.io/deciphering-the-kubernetes-networking-maze-navigating-load-balance-bgp-ipvs-and-beyond-7123ef428572">Deciphering K8s Networking</a></li>
+        <li><a href="https://itnext.io/drowning-in-aws-accounts-saws-super-aws-throws-you-a-lifeline-3ef1f4885724">Super AWS CLI (saws)</a></li>
+        <li><a href="https://itnext.io/ai-helm-centralization-auto-generate-lint-and-always-compatible-charts-with-k8s-versions-61ad3f035426">AI Helm Centralization</a></li>
+        <li><a href="https://itnext.io/buildkit-deep-dive-part3-implement-buildkit-in-kubernetes-and-build-images-in-tekton-using-af042133486f">BuildKit Deep Dive</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🎥 YouTube Videos</h4>
+      <ul>
+        <li><a href="https://youtu.be/GkudkgmcWdk">Kubernetes Networking</a></li>
+        <li><a href="https://youtu.be/-H-dYyUuNCQ">Docker Crash Course</a></li>
+        <li><a href="https://youtu.be/VpuDHWYbcYc">ACLs in Linux</a></li>
+        <li><a href="https://youtu.be/VpuDHWYbcYc">Linux Security Essentials</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- ARTICLES:START -->
-- [harbor-kubernetes-containerd](https://medium.com/@hosein.yousefi/harbor-kubernetes-containerd-c1f98782375e)
-- [vault-cluster-with-auto-unseal-on-kubernetes](https://itnext.io/vault-cluster-with-auto-unseal-on-kubernetes-8e469f9cdcfd)
-- [vault-ssh-otp-ubuntu-centos](https://blog.devops.dev/vault-ssh-otp-ubuntu-centos-964efa1e5082)
-- [deploy-ceph-integrate-with-kubernetes](https://itnext.io/deploy-ceph-integrate-with-kubernetes-9f88097e605)
-- [automated-mariadb-replication-using-docker](https://blog.devgenius.io/automated-mariadb-replication-using-docker-a585defcc047)
-<!-- ARTICLES:END -->
+<br>
 
 ---
 
-<p align="center">
+### 📊 GitHub Stats
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hosein-yousefii&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="left">
-  
-  
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=hosein-yousefii&theme=darcula&hide_border=true&background=FFFFFF00" alt="right">
-  
-</p>
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosein-yousefii&layout=compact&hide_border=true&theme=radical&langs_count=5&hide=jupyter%20notebook,tex,css,php" height="160" alt="Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hosein-yousefii&theme=radical&hide_border=true" height="160" alt="Streak">
+</div>
